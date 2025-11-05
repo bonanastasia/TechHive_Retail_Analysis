@@ -12,7 +12,7 @@
     </p>
     <p>
       <strong>TechHive's</strong> current business portfolio encompasses <strong>102,000+</strong> customers across
-      <strong>295,000+</strong> transactions, generating cumulative revenue exceeding <strong>$234.7 million</strong>.
+      <strong>294,000+</strong> transactions, generating cumulative revenue exceeding <strong>$234.7 million</strong>.
       The company's product catalog spans 8 distinct categories from premium laptops and gaming equipment to volume
       accessories, serving diverse market segments with varying price sensitivities and purchasing behaviors.
     </p>
